@@ -1,5 +1,5 @@
-Este es mi primer archivo txt guardado en git y creado en git bash.
+Hola soy Miguel A.S.G este es mi primer archivo creado y subido en Git.
 
-Soy Miguel A.S.G tengo 18 años y actualmente estoy estudiando en Platzi.
-Me encanta la programacion, quiero entenderla todo lo que pueda, crear videojuegos y
-demas cosas que sean posibles crear con ella :D
+Tengo 18 años, me gusta mucho la programacion, los videojuegos y la musica Dubstep.
+Este es mi segunda vez sobreescribiendo este archivo, debido a que en las practicas
+tuve un error que borro el archivo por completo :(
